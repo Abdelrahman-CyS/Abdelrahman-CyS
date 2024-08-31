@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F109351602%2F202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif&f=1&nofb=1&ipt=ae7d23b516291f1844eb4f5bfec43696e4b791af2738d4883b08d6039c87c26b&ipo=images)
 <h1 align="center">Hi there, I'm Abdelrahman Mourad 👋</h1>
 <h3 align="center">Cybersecurity Enthusiast & Developer from Egypt</h3>
 
