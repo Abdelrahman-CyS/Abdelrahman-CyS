@@ -9,9 +9,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/1574956586430.gif">
 
 ### About Me
-- 🔐 **Cybersecurity & Development**: Passionate about building secure apps and testing network defenses.
+- 🔐 **Cybersecurity & Development**: Passionate about building secure apps and testing network defences.
 - 👨‍💻 **All My Projects**: Available on my [GitHub profile](https://github.com/Abdelrahman-CyS).
-- 📝 **Writing**: I regularly write articles and share insights [here](https://github.com/Abdelrahman-CyS).
+- 📝 **Writing**: I regularly write articles and share insights [here](https://dev.to/dashboard).
 - 📧 **Reach Me At**: abdelrahman.cys@gmail.com
 - ⚡ **Fun Fact**: The first computer bug was a real insect—a moth stuck in a relay of the Harvard Mark II in 1947!
 
